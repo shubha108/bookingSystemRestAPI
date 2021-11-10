@@ -28,7 +28,6 @@
 - [Postman tests ](#postman)
 - [Project Structure](#structure)
 - [Built Using](#built_using)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
